@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-![](https://komarev.com/ghpvc/?username=Michelhsn&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=Michelhsn&color=blue&style=flat)
